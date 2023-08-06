@@ -34,7 +34,7 @@ To run SahayataRelief locally, follow these steps:
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/SahayataRelief.git
+git clone https:https://github.com/Ashirika21/SahayataRelief.git
 cd SahayataRelief
 ```
 
@@ -71,7 +71,7 @@ npm start
 
 ## Contributing
 
-We welcome contributions from the community to improve SahayataRelief and make it more effective in disaster relief efforts. If you would like to contribute, please follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
+We welcome contributions from the community to improve SahayataRelief and make it more effective in disaster relief efforts. 
 
 ## Contact
 
